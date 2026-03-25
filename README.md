@@ -18,7 +18,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em automa
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Seu Link do LinkedIn aqui]
+- **LinkedIn:** https://www.linkedin.com/in/isaias-fernando-17561825a/
 - **Localização:** Uberlândia, MG 📍
 
 ---
