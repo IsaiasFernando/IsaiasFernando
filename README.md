@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Isaias! 👋
 
-<!--
-**IsaiasFernando/IsaiasFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em automação de processos, extração de dados e segurança da informação. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python (Selenium, Playwright, Pandas)
+- **Segurança:** Pentest, Network Auditing (Kali Linux, Nmap, Wireshark)
+- **Ferramentas:** VS Code, Git/GitHub, Linux (SSH, Gerenciamento de Servidores)
+
+---
+
+### 🚀 Projetos em Destaque
+- **[Automation Bot Python](https://github.com/IsaiasFernando/automation-bot-python):** Robô de automação web com foco em segurança de credenciais e exportação de dados.
+- **Social Media Management:** Desenvolvimento de estratégias digitais e automação de engajamento para marcas.
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [Seu Link do LinkedIn aqui]
+- **Localização:** Uberlândia, MG 📍
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do Isaias](https://github-readme-stats.vercel.app/api?username=IsaiasFernando&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasFernando&layout=compact&theme=radical)
