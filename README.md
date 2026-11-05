@@ -13,7 +13,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em automa
 
 ### 🚀 Projetos em Destaque
 - **[Automation Bot Python](https://github.com/IsaiasFernando/automation-bot-python):** Robô de automação web com foco em segurança de credenciais e exportação de dados.
-- **Social Media Management:** Desenvolvimento de estratégias digitais e automação de engajamento para marcas.
 
 ---
 
