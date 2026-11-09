@@ -1,27 +1,26 @@
 # Olá, eu sou o Isaias! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em automação de processos, extração de dados e segurança da informação. 
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em automação de processos, extração de dados e segurança da informação. Gosto de construir ferramentas em Python que sejam seguras, testadas e fáceis de rodar.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python (Selenium, Playwright, Pandas)
-- **Segurança:** Pentest, Network Auditing (Kali Linux, Nmap, Wireshark)
-- **Ferramentas:** VS Code, Git/GitHub, Linux (SSH, Gerenciamento de Servidores)
+
+- **Linguagens:** Python (FastAPI, Selenium, Playwright, Pandas)
+- **Backend e dados:** PostgreSQL, Alembic, Docker, pytest, GitHub Actions
+- **Segurança:** Pentest e auditoria de rede (Kali Linux, Nmap, Wireshark)
+- **Ferramentas:** VS Code, Git/GitHub, Linux (SSH, gerenciamento de servidores)
 
 ---
 
 ### 🚀 Projetos em Destaque
-- **[Automation Bot Python](https://github.com/IsaiasFernando/automation-bot-python):** Robô de automação web com foco em segurança de credenciais e exportação de dados.
+
+- [**Mini Bank API**](https://github.com/IsaiasFernando/mini-bank-api): API educacional de banco digital com autenticação JWT, transferências entre contas, migrações com Alembic, testes automatizados e CI no GitHub Actions.
+- [**Automation Bot Python**](COLE-AQUI-O-LINK-DO-REPO): robô de automação web com foco em segurança de credenciais e exportação de dados.
 
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/isaias-fernando
+
+- **LinkedIn:** [linkedin.com/in/isaias-fernando](https://www.linkedin.com/in/isaias-fernando)
 - **Localização:** Uberlândia, MG 📍
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do Isaias](https://github-readme-stats.vercel.app/api?username=IsaiasFernando&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasFernando&layout=compact&theme=radical)
